@@ -1,0 +1,1 @@
+# ty-input-method
